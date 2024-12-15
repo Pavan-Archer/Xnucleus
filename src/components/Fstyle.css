@@ -1,0 +1,18 @@
+footer {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%; 
+    z-index: 1000;
+    margin-bottom: 0px !important;
+  }
+
+.social-media-container {
+    display: flex;
+    justify-content: right; 
+  }
+  
+  .social-media-container a {
+    margin: 0 10px; 
+    color: #333; 
+  }
