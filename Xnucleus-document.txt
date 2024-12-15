@@ -1,0 +1,43 @@
+################################# XNucleus Document #################################
+
+
+---------------------------------  Technologies Used --------------------------------- 
+
+JavaScript => Programming language for web interactivity.
+
+React.js => JavaScript library for building user interfaces.
+
+HTML5 => Foundation for structuring web content.
+
+CSS3 => Styling and visual presentation of HTML elements.
+
+Material-UI => UI component library for React.
+
+Material-UI Icons => Icon set for Material-UI.
+
+React Icons => Library for accessing various icons.
+
+React Router DOM => Library for handling navigation within React applications.
+
+Version control tools  => GitHub and Git 
+
+---------------------------------  Project setup --------------------------------- 
+
+Clone the Project: 
+
+Clone: Download the project from GitHub => git clone https://github.com/Pavan-Archer/Xnucleus.git
+
+Install: Install necessary packages => npm install
+
+Start: Run the project => npm start
+
+View: Access the project in your web browser at => http://localhost:3000
+
+That's it! You've successfully run the Xnucleus project.
+
+
+------------------------------------------------------------------------------------
+
+
+
+
